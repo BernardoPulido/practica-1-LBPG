@@ -1,5 +1,5 @@
 # practica-1-LBPG
-Práctica 1 Sistemas Distribuidos en Internet (Creación de API REST utilizando NodeJS y Express)
+Práctica 1 de la asignatura Sistemas Distribuidos en Internet (Creación de API REST utilizando NodeJS y Express)
 
 Clona el repositorio ejecutando la siguiente linea:
 
@@ -11,7 +11,7 @@ Ahora, instala las depedendencia necesarias para la correcta ejecución de la pr
 ```bash
 npm install
 ```
-Una vez ejecutados estos comandos, basta con iniciar el servidor, por medio de la siguiente linea:
+Una vez ejecutados estos comandos, basta con iniciar el servidor como se muestra a continuación:
 
 ```bash
 npm start
