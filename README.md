@@ -4,7 +4,7 @@ Práctica 1 Sistemas Distribuidos en Internet (Creación de API REST utilizando 
 Clona el repositorio ejecutando la siguiente linea:
 
 ```bash
-git clone git://github.com/jquery/jquery.git
+git clone https://github.com/BernardoPulido/practica-1-LBPG.git
 ```
 Ahora, instala las depedendencia necesarias para la correcta ejecución de la práctica:
 
