@@ -11,7 +11,7 @@ Ahora, instala las depedendencia necesarias para la correcta ejecución de la pr
 ```bash
 npm install
 ```
-Una vez ejecutados estos comandos, basta con iniciar el servidor como se muestra a continuación:
+Una vez ejecutados estos comandos, basta con iniciar npm como se muestra a continuación:
 
 ```bash
 npm start
